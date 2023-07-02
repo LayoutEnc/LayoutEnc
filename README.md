@@ -2,6 +2,7 @@
 ### TODO
 - [x] Experiment environment
 - [x] Interactive demo
+- [ ] clean code and more discription in data preparation
 - [ ] Release pretrained checkpoint
 - [ ] Inference code
 - [ ] Training code
