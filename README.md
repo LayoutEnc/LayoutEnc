@@ -4,7 +4,7 @@
 
 Seen in Taming Transformers
 
-### Demo
+### Demo (Local)
 You only need to run such script
 'python app.py'
 
