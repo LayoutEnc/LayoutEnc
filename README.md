@@ -1,5 +1,16 @@
-### Hi there 👋
+## LayoutEnc: Leverage Effective Layout Representation for Complex Scene Synthesis
 
+### Environment
+
+Seen in Taming Transformers
+
+### Demo
+You only need to run such script
+'python app.py'
+
+
+
+### Acknowledgements
 <!--
 **LayoutEnc/LayoutEnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
