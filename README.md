@@ -1,5 +1,9 @@
 # LayoutEnc: Leverage Effective Layout Representation for Complex Scene Synthesis
-
+### TODO
+- [x] Interactive demo
+- [ ] Released pretrained checkpoint
+- [ ] Inference code
+- [ ] Training code
 ### Environment
 
 Seen in Taming Transformers
