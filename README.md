@@ -12,7 +12,9 @@ Seen in Taming Transformers
 
 ### Demo (Local)
 You only need to run such script
-'python app.py'
+```
+python app.py
+```
 
 
 
