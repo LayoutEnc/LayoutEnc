@@ -1,4 +1,4 @@
-## LayoutEnc: Leverage Effective Layout Representation for Complex Scene Synthesis
+# LayoutEnc: Leverage Effective Layout Representation for Complex Scene Synthesis
 
 ### Environment
 
