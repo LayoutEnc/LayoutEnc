@@ -1,4 +1,4 @@
-# LayoutEnc: Leverage Effective Layout Representation for Complex Scene Synthesis
+# LayoutEnc: Leveraging Effective Layout Representation for Complex Scene Synthesis
 ### TODO
 - [x] Experiment environment
 - [x] Interactive demo
