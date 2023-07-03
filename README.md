@@ -3,7 +3,7 @@
 - [x] Experiment environment
 - [x] Interactive demo
 - [ ] clean code and more description in data preparation
-- [ ] Release pretrained checkpoint
+- [x] Release pretrained checkpoint
 - [ ] Inference code
 - [ ] Training code
 ### Environment
