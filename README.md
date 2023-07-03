@@ -20,7 +20,7 @@ You only need to run such script, have fun!
 ```
 python launch_gradio_app.py
 ```
-
+![](assets/demo_snap_shot.png)
 ### Acknowledgements
 Our repo is built open [*Frido*](https://github.com/davidhalladay/Frido) and [Taming Transformers](https://github.com/CompVis/taming-transformers), thanks for your opensourcing!
 <!--
