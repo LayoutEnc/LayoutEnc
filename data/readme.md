@@ -3,7 +3,7 @@ The files should follow the below structure
 |-- data
     |-- coco 
     |-- vg
-    |-- vg_other_notations
+    |-- vg_other_annotations
     |-- pretrained
         |-- checkpoints
             |-- vg
