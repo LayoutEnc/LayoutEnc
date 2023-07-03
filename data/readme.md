@@ -1,4 +1,4 @@
-The files should follow the below structure
+The files should follow the provided structure:
 ```
 |-- data
     |-- coco 
